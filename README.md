@@ -14,7 +14,7 @@ This project is a demo project using Unity Engine. The project is a practice pro
 Special thanks to DitzelGames for the tutorial on wave physics: [Video Link](https://www.youtube.com/watch?v=_Ij24zRI9J0)
 
 ## Necessary Software
-- [Unity Editor](https://unity.com/download))
+- [Unity Editor](https://unity.com/download)
 
 ## New To Github?
 
